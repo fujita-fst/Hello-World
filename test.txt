@@ -2,3 +2,6 @@ hello,world!
 fujita join!
 わーーーーーーーーーー！！！
 aaa
+
+
+rebase test1
